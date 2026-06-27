@@ -1,6 +1,7 @@
 # SpeedEstimator — MiDaS × YOLOv8 × ByteTrack × Kalman Filter
 
 **Final Project — Image Processing and Artificial Intelligence Applications**
+
 By Max Shen, Reynard Wijaya, Diether S. Keh (SID: 1123534, 1111549, 1123802 respectively)
 
 A hybrid vehicle speed estimation pipeline that fuses monocular depth (MiDaS DPT-Large), real-time object detection (YOLOv8), multi-object tracking (ByteTrack + Kalman Filter), and optional virtual-gate geometry to estimate per-vehicle speed from a single camera.
